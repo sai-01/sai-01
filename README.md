@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 💻 Future Career: System Development Engineer in the making!💫
 
-- 👨🏻‍💻 A beginner in the **system** field, always seeking new opportunities to level up my skills and understanding. Any guidance or suggestions are greatly appreciated! 
+- 👨🏻‍💻 A beginner in the **system** field. Any guidance or suggestions are greatly appreciated! 
 
 - 🎶 Got passion for electronic music. Interested in exploring **the intersection of CS/AI with music**. Always looking for new ideas and inspiration. 🎹🎧🚀
 
