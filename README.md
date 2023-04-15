@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sai-01/sai-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,11 +14,14 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=sai-01&style=plastic)
 
-\This is sai!
-- 🏫 I'm currently a final-year undergraduate at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech).
+This is sai!
 - 🔭 I'm an incoming system development engineer.
 
 <img width="196" src="https://img.zcool.cn/community/0179b15b921fbca80121a0f7abf51b.gif"/>
+<img width="196" src="https://img.zcool.cn/community/01783a5c55331ca801203d228cc2ed.gif"/>
+<img width="196" src="https://img.zcool.cn/community/01bb065f8d029c11013e45843ee4db.gif"/>
+<img width="196" src="https://img.zcool.cn/community/0188225b921fbca8012017ee92fa8c.gif"/>
+<img width="196" src="https://img.zcool.cn/community/0153a45b921fbca80121a0f7a6e8d9.gif"/>
 
 ### Languages and Tools
 Loading...
