@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🏫 I'm currently a final-year undergraduate at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech).
 - 🔭 I'm an incoming system development engineer.
 
-<img width="196" src="https://img.zcool.cn/community/013f115b921fbda80121a0f7dfa66d.gif"/>
+<img width="196" src="https://img.zcool.cn/community/010bc95b297beda8012034f77866c5.gif"/>
 
 ### Languages and Tools
 Loading...
