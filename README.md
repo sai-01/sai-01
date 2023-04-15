@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 👋 Hey there, I'm Siting - or you can call me Saisai, it's a nickname derived from my name 'Si'(also pronouneced as 'sai' in Chinese).
 
-📍 Located in Shenzhen
+- 📍 Located in Shenzhen
 
-💻 Future Career: System Development Engineer in the making!✨
+- 💻 Future Career: System Development Engineer in the making!✨
 
-👨🏻‍💻 A beginner in the **system** field. Always on the lookout for new opportunities to improve my skills and understanding. Any guidance or suggestions are welcome! 💡
+- 👨🏻‍💻 A beginner in the **system** field. Always on the lookout for new opportunities to improve my skills and understanding. Any guidance or suggestions are welcome! 💡
 
-🎶 Got passion for electronic music. Interested in exploring **the intersection of CS/AI with music**. Always looking for new ideas and inspiration. 🎹🎧🚀
+- 🎶 Got passion for electronic music. Interested in exploring **the intersection of CS/AI with music**. Always looking for new ideas and inspiration. 🎹🎧🚀
 
 Thanks for checking out my profile - let's connect and make some awesome things together! 🤝👨🏻‍💻
 
