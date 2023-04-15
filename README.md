@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=sai-01&style=plastic)
 
-👋 Hey there, I'm Siting - or you can call me Saisai, it's a nickname derived from my name 'Si'(also pronouneced as 'sai' in Chinese).
+👋 Hey there, I'm Siting - or you can call me Saisai, it's a nickname derived from my name 'Si' (also pronouneced as 'Sai' in Chinese).
 
 - 📍 Located in the bustling city of Shenzhen 🌆
 
