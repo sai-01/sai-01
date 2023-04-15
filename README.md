@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=yunlong10&style=plastic)
+
+\This is sai!
+- 🏫 I'm currently a final-year undergraduate at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech).
+- 🔭 I'm an incoming system development engineer.
+
+<img width="196" src="https://img.zcool.cn/community/013f115b921fbda80121a0f7dfa66d.gif"/>
+
+### Languages and Tools
+Loading...
