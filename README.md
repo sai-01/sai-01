@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 👨🏻‍💻 A beginner in the **system** field. Any guidance or suggestions are greatly appreciated! 
 
-- 🎶 Got passion for electronic music. Interested in exploring **the intersection of CS/AI with music**. Always looking for new ideas and inspiration. 
+- 🎶 Got passion for electronic music. Interested in exploring **the intersection of CS/AI with music**. 
 
 Thanks for checking out my profile - let's connect and make some awesome things together! 
 
