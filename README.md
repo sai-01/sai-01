@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=sai-01&style=plastic)
+### Hi there <img width="50" src="https://img.zcool.cn/community/01783a5c55331ca801203d228cc2ed.gif"/> ![](https://komarev.com/ghpvc/?username=sai-01&style=plastic)
 
 👋 Hey there, I'm Siting - or you can call me Saisai, it's a nickname derived from my name 'Si' (also pronounced as 'Sai' in Chinese).
 
-- 🌆 Located in the bustling city of Shenzhen <img width="50" src="https://img.zcool.cn/community/01783a5c55331ca801203d228cc2ed.gif"/>
+- 🌆 Located in the bustling city of Shenzhen 
 
 - 💫 Future Career: System Development Engineer in the making!
 
